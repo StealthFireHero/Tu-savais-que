@@ -1272,6 +1272,13 @@ footer {
     font-weight: 500;
 }
 
+.footer-main-credit a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
 .footer-rework-credit {
     font-size: clamp(0.9rem, 2vw, 1rem);
     color: #444;
